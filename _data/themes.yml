@@ -1,0 +1,12 @@
+- name: Pixyll
+  description: >
+    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than 
+    aesthetic fluff. It’s mobile first, fluidly responsive, and delightfully lightweight.
+  image: pixyll.png
+  demourl: http://pixyll.com
+  githuburl: https://github.com/johnotander/pixyll.git
+  author:
+    name: John Otander
+    url: http://johnotander.com
+    twitter: 4lpine
+    github: johnotander

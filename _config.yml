@@ -1,0 +1,13 @@
+# Site settings
+title: Jekyll Supply
+email: johnotander@gmail.com
+description: > 
+  A collection of the highest quality, open source Jekyll themes. Every
+  theme is free and guaranteed to be beautiful.
+baseurl: ""
+url: "http://jekyllsupply.com"
+twitter_username: 4lpine
+github_username:  johnotander
+
+# Build settings
+markdown: kramdown
