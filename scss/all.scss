@@ -1,1 +1,17 @@
 @import "../bower_components/furtive/scss/all";
+@import "../node_modules/browser.css/scss/browser";
+
+.browser-window {
+  margin: 0;
+  width: 100%;
+}
+
+.browser-window .content {
+  border: thin solid $off-white;
+  border-top: none;
+  margin-bottom: -5px;
+}
+
+.browser-window .circles {
+  margin: 0 11px;
+}

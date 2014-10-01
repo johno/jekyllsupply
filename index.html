@@ -9,6 +9,6 @@ layout: default
     <p>
       <a href="{{theme.demourl}}">Demo</a> | <a href="{{theme.githuburl}}">Github</a>
     </p>
-    <img src="public/images/{{theme.image}}">
+    {% include image_in_browser.html image=theme.image %}
   </div>
 {% endfor %}

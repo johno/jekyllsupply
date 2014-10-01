@@ -756,3 +756,52 @@ table th, table td {
   padding: 0.25rem;
   word-wrap: none;
   line-height: 1; }
+
+.browser-window {
+  margin: 20px;
+  width: 80%;
+  height: 300px;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #fff; }
+
+.browser-window .top-bar {
+  height: 30px;
+  border-radius: 5px 5px 0 0;
+  border-top: thin solid #eae9e9;
+  border-bottom: thin solid #dfdfde;
+  background: -webkit-linear-gradient(#e7e7e6, #E2E2E1);
+  background: linear-gradient(#e7e7e6, #E2E2E1); }
+
+.browser-window .circle {
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  border-radius: 50%;
+  background-color: white; }
+
+.browser-window .circles {
+  margin: 5px 11px; }
+
+.browser-window .content {
+  margin: 0;
+  width: 100%;
+  min-height: 50%;
+  display: inline-block;
+  border-radius: 0 0 5px 5px;
+  background-color: #fafafa; }
+
+.browser-window .clear {
+  clear: both; }
+
+.browser-window {
+  margin: 0;
+  width: 100%; }
+
+.browser-window .content {
+  border: thin solid rgba(250, 250, 250, 0.99);
+  border-top: none;
+  margin-bottom: -5px; }
+
+.browser-window .circles {
+  margin: 0 11px; }
