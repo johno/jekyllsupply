@@ -10,3 +10,17 @@
     url: http://johnotander.com
     twitter: 4lpine
     github: johnotander
+
+- name: Balzac
+  description: >
+    Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously
+    beautiful and suited to long form. Built on a SCSS foundation, it's organized and
+    awesome.
+  image: balzac.png
+  demourl: http://jekyll.gtat.me/about/
+  githuburl: https://github.com/coletownsend/balzac-for-jekyll
+  author:
+    name: Cole Townsend
+    url: http://twnsnd.co
+    twitter: twnsndco
+    github: ColeTownsend
