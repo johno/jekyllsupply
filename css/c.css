@@ -794,6 +794,9 @@ table th, table td {
 .browser-window .clear {
   clear: both; }
 
+.a--no-decoration {
+  text-decoration: none; }
+
 .browser-window {
   margin: 0;
   width: 100%; }

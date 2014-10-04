@@ -1,6 +1,10 @@
 @import "../bower_components/furtive/scss/all";
 @import "../node_modules/browser.css/scss/browser";
 
+.a--no-decoration {
+  text-decoration: none;
+}
+
 .browser-window {
   margin: 0;
   width: 100%;
