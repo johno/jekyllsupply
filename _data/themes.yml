@@ -11,6 +11,19 @@
     twitter: 4lpine
     github: johnotander
 
+- name: Lanyon
+  description: >
+    Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation
+    in a hidden drawer. It's based on Poole, the Jekyll butler.
+  image: lanyon.png
+  demourl: http://lanyon.getpoole.com/
+  githuburl: https://github.com/poole/lanyon
+  author:
+    name: Mark Otto
+    url: http://markdotto.com/
+    twitter: mdo
+    github: mdo
+
 - name: Balzac
   description: >
     Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously
