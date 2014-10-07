@@ -1,6 +1,6 @@
 - name: Pixyll
   description: >
-    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than 
+    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than
     aesthetic fluff. It’s mobile first, fluidly responsive, and delightfully lightweight.
   image: pixyll.png
   demourl: http://pixyll.com
@@ -16,7 +16,7 @@
     Hikari is a responsive, fluid and minimalist Jekyll theme for developers. It's
     an open-source Jekyll theme packed with everything you need to get started and
     share your best learnings with the community.
-  image: 
+  image: hikari.png
   demourl: http://m3xm.github.io/hikari-for-Jekyll/
   githuburl: https://github.com/m3xm/hikari-for-Jekyll
   author:
