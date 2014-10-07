@@ -11,6 +11,20 @@
     twitter: 4lpine
     github: johnotander
 
+- name: Hikari
+  description: >
+    Hikari is a responsive, fluid and minimalist Jekyll theme for developers. It's
+    an open-source Jekyll theme packed with everything you need to get started and
+    share your best learnings with the community.
+  image: 
+  demourl: http://m3xm.github.io/hikari-for-Jekyll/
+  githuburl: https://github.com/m3xm/hikari-for-Jekyll
+  author:
+    name: Mathieu Mayer-Mazzoli
+    url: http://m3xm.github.io/
+    twitter: mx3m
+    github: https://github.com/m3xm
+
 - name: Lanyon
   description: >
     Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation
