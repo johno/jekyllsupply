@@ -1,6 +1,6 @@
 - name: Type
   description: >
-    Type Theme is a free and open-source Jekyll theme, that’s highly customizable and
+    Type is a free and open-source Jekyll theme, that’s highly customizable and
     built for blogging. It's simple, colorful, and has a delightful personality.
   image: type.png
   demourl: https://rohanchandra.github.io/type-theme/
