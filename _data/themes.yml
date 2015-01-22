@@ -1,3 +1,16 @@
+- name: Type
+  description: >
+    Type Theme is a free and open-source Jekyll theme, that’s highly customizable and
+    built for blogging. It's simple, colorful, and has a delightful personality.
+  image: type.png
+  demourl: https://rohanchandra.github.io/type-theme/
+  githuburl: https://github.com/rohanchandra/type-theme
+  author:
+    name: Rohan Chandra
+    url: https://rohanchandra.github.io/
+    twitter: rohanchandra
+    github: rohanchandra
+
 - name: Heather
   description: >
     Heather is a hyperminimal theme for Jekyll, featuring type set in Merriweather at a
