@@ -1,3 +1,16 @@
+- name: Mickey
+  description: >
+    Mickey is a minimal one-column, responsive theme for Jekyll. It's inspired by
+    Hyde, Medium, and Squarespace.
+  image: mickey.png
+  demourl: http://vincentchan.github.io/mickey/
+  githuburl: https://github.com/vincentchan/Mickey
+  author:
+    name: Vincent Chan
+    url: http://aneverendingdream.com/
+    twitter: vincentchan
+    github: vincentchan
+
 - name: Type
   description: >
     Type is a free and open-source Jekyll theme, that’s highly customizable and
